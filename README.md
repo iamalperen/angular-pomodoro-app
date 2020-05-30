@@ -1,2 +1,2 @@
 # angular-pomodoro-app
-🍅Angular implementation of Pomodoro Timer
+🍅 Angular implementation of Pomodoro Timer
