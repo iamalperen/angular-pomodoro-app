@@ -8,4 +8,4 @@ Planned Features:
 - [ ] Changing Background Color
 - [ ] Showing taken pomodoro, short break and long break numbers
 - [ ] Showing timer time instantly on page title
-- [ ] ...
+- [ ] rxjs timer (observable)
