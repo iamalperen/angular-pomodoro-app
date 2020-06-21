@@ -3,7 +3,7 @@
 
 
 Planned Features:
-- [ x ] Progress Circle Animation
+- [x] Progress Circle Animation
 - [ ] Pomodoro, Short Break and Long Break Timers
 - [ ] Changing Background Color
 - [ ] Showing taken pomodoro, short break and long break numbers
