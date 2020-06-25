@@ -9,3 +9,4 @@ Planned Features:
 - [ ] Showing taken pomodoro, short break and long break numbers
 - [ ] Showing timer time instantly on page title
 - [x] rxjs timer (observable)
+- [ ] Adding a bell ring sound when time is up.
