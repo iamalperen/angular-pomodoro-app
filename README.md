@@ -14,7 +14,7 @@ Implemented Features:
 - Showing taken pomodoro, short break and long break numbers
 
 
-Demo : https://embed.plnkr.co/gIEPSApNPTsmiOJLPoUA/
+Demo : https://iamalperen.github.io/demo/angular-pomodoro-app/
 
 Screnshots :
 
