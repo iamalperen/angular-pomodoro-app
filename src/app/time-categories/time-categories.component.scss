@@ -1,0 +1,83 @@
+
+.time-categories {
+  display: flex;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.time-categories__category {
+  cursor: pointer;
+  box-sizing: border-box;
+  position: relative;
+  color: #495057;
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0 solid #f6f6f6;
+  border-radius: .25rem;
+  box-shadow: 0 .75rem 1.5rem rgba(18,38,63,.03);
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+  margin: 0 5px;
+  width: 180px;
+}
+
+.time-categories__category-stats {
+  font-size: .8125rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: left;
+  box-sizing: border-box;
+  flex: 1;
+}
+
+.time-categories__category-title {
+  font-family: Poppins,sans-serif;
+  font-size: .8125rem;
+  line-height: 1.5;
+  text-align: left;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #74788d!important;
+  font-weight: 500;
+}
+
+.time-categories__category-value {
+  font-family: Poppins,sans-serif;
+  text-align: left;
+  box-sizing: border-box;
+  margin-top: 0;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 1.21875rem;
+  color: #495057;
+  margin-bottom: 0!important;
+}
+
+.time-categories__category-start-button {
+  font-family: Poppins,sans-serif;
+  font-size: .8125rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  box-sizing: border-box;
+  background-color: #556ee6!important;
+  border-radius: 50%!important;
+  align-self: center!important;
+  height: 3rem;
+  width: 3rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.time-categories__category-start-button i {
+  color: white;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,6 @@
+<section class="pomodoro-app">
+  <app-header></app-header>
+  <app-timer (completedTimer)="timerCompletedEvent($event)" [timerControlAction]="timerControlAction"></app-timer>
+  <app-timer-controls (timerControlEvent)="receiveAction($event)"></app-timer-controls>
+  <app-time-categories (timerControlEvent)="receiveAction($event)" [appStatus]="appStatus"></app-time-categories>
+</section>

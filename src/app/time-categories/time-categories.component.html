@@ -1,0 +1,33 @@
+<div class="time-categories">
+
+  <div class="time-categories__category" (click)="clickEvent('pomodoro')">
+    <div class="time-categories__category-stats">
+      <p class="time-categories__category-title">Pomodoro</p>
+      <p class="time-categories__category-value">{{appStatus.takenPomodoroNum}}</p>
+    </div>
+    <div class="time-categories__category-start-button">
+      <i class="fas fa-pizza-slice"></i>
+    </div>
+  </div>
+
+  <div class="time-categories__category" (click)="clickEvent('short-break')">
+    <div class="time-categories__category-stats">
+      <p class="time-categories__category-title">Short Break</p>
+      <p class="time-categories__category-value">{{appStatus.takenShortBreakNum}}</p>
+    </div>
+    <div class="time-categories__category-start-button">
+      <i class="fas fa-coffee"></i>
+    </div>
+  </div>
+
+  <div class="time-categories__category" (click)="clickEvent('long-break')">
+    <div class="time-categories__category-stats">
+      <p class="time-categories__category-title">Long Break</p>
+      <p class="time-categories__category-value">{{appStatus.takenLongBreakNum}}</p>
+    </div>
+    <div class="time-categories__category-start-button">
+      <i class="far fa-hand-spock"></i>
+    </div>
+  </div>
+
+</div>
