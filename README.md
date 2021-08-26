@@ -24,5 +24,5 @@ Screnshots :
 
 
 ## Author and License
-Created and maintained by [Alperen](https://github.com/iamalperen) under [MIT](LICENCE.md) License
+Created and maintained by [Alperen](https://github.com/iamalperen) under [MIT](LICENSE.md) License
 
