@@ -23,3 +23,6 @@ Screnshots :
 ![](https://raw.githubusercontent.com/iamalperen/angular-pomodoro-app/master/ss2.png)
 
 
+## Author and License
+Created and maintained by [Alperen](https://github.com/iamalperen) under [MIT](LICENCE.md) License
+
