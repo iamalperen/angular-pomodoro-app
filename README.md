@@ -13,6 +13,17 @@ Implemented Features:
 - A bell ring sound when time is up.
 - Showing taken pomodoro, short break and long break numbers
 
+## Installation
+
+```sh
+npm install
+```
+
+```sh
+npm start
+```
+
+## Project Overivew
 
 Demo : https://iamalperen.github.io/demo/angular-pomodoro-app/
 
